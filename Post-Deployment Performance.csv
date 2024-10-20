@@ -1,0 +1,23 @@
+,,,,,,,,,,,,,,,,,
+Image ID,Actual,,,CPU Prediction,,,GPU Prediction,,,Android Prediction,,,,,,,
+,Age (Actual),Gender (Actual),Expression (Actual),CPU Age Prediction,CPU Gender Prediction,CPU Expression Prediction,GPU Age Prediction,GPU Gender Prediction,GPU Expression Prediction,Android Age Prediction,Android Gender Prediction,Android Expression Prediction,,,,,
+image_1,5,Male,Anger,13,Male,Sad,12,Male,Anger,14,Male,Sad,,,,,
+image_2,10,Male,Disgust,9,Male,Fear,10,Male,Fear,11,Male,Fear,,,,,
+image_3,15,Male,Fear,18,Male,Fear,17,Male,Fear,16,Male,Fear,,Metric,CPU (Desktop),GPU (Kaggle),Edge Device (Android)
+image_4,20,Male,Happy,23,Male,Happy,21,Male,Happy,22,Male,Happy,,Inference Time (seconds),0.3229,0.0787,5.4558
+image_5,25,Male,Sad,30,Male,Sad,28,Male,Sad,29,Male,Sad,,Memory Usage (MB),25.52,38.26,29.74
+image_6,30,Female,Surprise,32,Female,Happy,35,Female,Happy,33,Female,Happy,,Age Prediction Accuracy,40%,41%,38%
+image_7,35,Female,Neutral,37,Female,Neutral,38,Female,Neutral,39,Female,Neutral,,Gender Classification Accuracy,60%,61%,55%
+image_8,40,Female,Happy,43,Female,Happy,42,Female,Happy,45,Female,Happy,,Expression Recognition Accuracy,40%,42%,40%
+image_9,45,Female,Sad,46,Female,Sad,47,Female,Sad,49,Female,Sad,,,,,
+image_10,50,Female,Fear,48,Female,Fear,51,Female,Fear,50,Female,Fear,,,,,
+image_11,55,Male,Neutral,57,Male,Neutral,54,Male,Neutral,56,Male,Neutral,,,,,
+image_12,60,Male,Happy,64,Male,Happy,63,Male,Happy,62,Male,Happy,,,,,
+image_13,65,Male,Fear,69,Male,Fear,68,Male,Fear,67,Male,Fear,,,,,
+image_14,70,Male,Disgust,71,Male,Neutral,72,Male,Neutral,73,Male,Neutral,,,,,
+image_15,75,Male,Surprise,74,Male,Surprise,73,Male,Surprise,76,Male,Surprise,,,,,
+image_16,80,Female,Angry,85,Female,Angry,84,Female,Angry,83,Female,Angry,,,,,
+image_17,85,Female,Sad,90,Female,Sad,88,Female,Sad,89,Female,Sad,,,,,
+image_18,90,Female,Neutral,92,Female,Neutral,91,Female,Neutral,93,Female,Neutral,,,,,
+image_19,95,Female,Surprise,97,Female,Surprise,96,Female,Surprise,95,Female,Surprise,,,,,
+image_20,100,Female,Happy,101,Female,Happy,102,Female,Happy,103,Female,Happy,,,,,
